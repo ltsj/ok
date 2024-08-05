@@ -48,6 +48,9 @@
             "url": "http://bp.tvbox.cam/",
             "name": "小白"
         },
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+            "name": "高天18+"
+        },
         {
             "url": "http://tv.nxog.top/m/",
             "name": "讴歌"
